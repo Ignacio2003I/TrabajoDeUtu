@@ -1,0 +1,1 @@
+Hola Ignacio, no navega la página. Utiliza rutas relativas a la carpeta raiz y no absolutas.
